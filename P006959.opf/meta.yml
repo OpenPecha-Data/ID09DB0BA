@@ -1,15 +1,16 @@
-id: opecha:P006959
+id: P006959
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W10319
   title: བཀའ་གདམས་ཆོས་འབྱུང
-  volume:
+  author: ''
+  volumes:
     93540eadb460480fb286010540828419:
       image_group_id: I1GS105591
       title: Volume 1 of bka' gdams chos 'byung
       volume_number: 1
       total_pages: 206
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བཀའ་གདམས་ཆོས་འབྱུང
   author: ''
